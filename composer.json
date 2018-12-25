@@ -1,5 +1,5 @@
 {
-    "name": "socialkandy/wp-cli-media-cleanup",
+    "name": "mrrobot47/wp-cli-media-cleanup",
     "description": "",
     "type": "wp-cli-package",
     "homepage": "https://github.com/socialkandy/wp-cli-media-cleanup",
@@ -11,7 +11,7 @@
         "files": [ "media-cleanup-command.php" ]
     },
     "require": {
-        "wp-cli/wp-cli": "^1.1.0"
+        "wp-cli/wp-cli": "^2.0.0"
     },
     "require-dev": {
         "behat/behat": "~2.5"
